@@ -9,5 +9,4 @@ public class Sem2Week2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Sem2Week2Application.class, args);
 	}
-
 }
